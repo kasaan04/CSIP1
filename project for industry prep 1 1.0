@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+<title>Google 1999 Remake</title>
+
+</head>
+<body>
+  <center>
+  <img src="googleBetaImage.jpeg">
+  </center>
+  <center>
+  <p>Search the browser using the Google platform
+
+<input type="text" id="searchbar" size="48">
+  </center>
+  <center>
+  </center>
+  <center>
+  <a href="www.google.com">More google!</a>
+  <footer id="mainFooterr">
+</center>
+  <p>copyright &copy;Google 1999 inc.</p>
+</body>
+</footer>
+</html>
