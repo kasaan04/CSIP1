@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+        <title>pizza hut</title>
+</head>
+<body>
+<br>
+<br>
+<center>
+
+<img src="pizzahut.png" height=200 width=200>
+<h1>If you pizza, Welcome to Pizza Hut</h1>
+<p>This electronic storefront is brought by<strong>pizza hut</strong><strong>The santa cruz operation</strong>. You can click on the pizza hut website logo on any of the pages to comment any concerns of this service to <em>webmaster@pizzahut.com</em></p>
+<label>This is our offer from pizza hut:</label>
+<button id="buttonMenu">Sample Menu</button>
+<br> <p>If you want to order a pizza and have it delivered, give us the following information:</p>
+<div> <p>name</p>
+<input type="text" id="inputName" size="20">
+</div> <div>
+<p>street address</p>
+<input type="text" id="inputAddress" size="20">
+</div> <div>
+<p>voice phone ###-###-####</p>
+<input type="text" id="inputPhoneNumber" size="20">
+<p>[Where will we be able to reach you]</p>
+</div>
+<center> <button id="buttonSubmit">Proceed</button>
+</center>
+<br> <footer id="footerMain">
+<center>
+<img src="pizzahut2.png">
+</center>
+</footer>
+</body>
+</html>
